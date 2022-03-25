@@ -1,0 +1,18 @@
+body {
+    min-height: 100vh;
+  }
+  
+  #navbar {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+  }
+  #footer {
+    top: 100%;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    position: sticky;
+    bottom: 0px;
+    background-color: var(--light);
+  }
+  
